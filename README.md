@@ -1,52 +1,57 @@
-<p align="center">
-  <img src="GitHub banner_Eloop.png" alt="Eloop Token Banner" width="100%">
-</p>
+# 🛡️ Eloop Token – Prova de Licenciamento e Proteção Intelectual
 
-# Eloop Token – Prova Pública de Licenciamento
-
-Este repositório contém a comprovação pública da proteção e licenciamento intelectual do projeto **Eloop Token**, um token ambiental lastreado em resíduos eletroeletrônicos.
+Este repositório documenta a **prova pública de proteção intelectual e licenciamento do projeto Eloop Token**, um token ambiental lastreado em resíduos eletroeletrônicos. O projeto adota princípios de sustentabilidade, blockchain e economia circular, sendo registrado via timestamp e licenciado sob Creative Commons.
 
 ---
 
-## 🔐 Registro de Integridade
+## 📚 Conteúdo do Repositório
 
-**Hash SHA256 do conteúdo protegido**:
-```
-7583ce87ceaf018fee580c62315e6033438ed4ac091df3022185977ba65b99d2
-```
-
-**Conteúdo protegido**: arquivo HTML da landing page (`eloop-token-protecao.html`)  
-**Carimbo digital**: gerado via [OpenTimestamps](https://opentimestamps.org), com segurança baseada na blockchain do Bitcoin.
-
----
-
-## 📄 Licenciamento Público
-
-Este conteúdo está licenciado sob:
-
-[![Licença CC BY-NC-ND 4.0](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
-**Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional**  
-https://creativecommons.org/licenses/by-nc-nd/4.0/
+| Arquivo | Descrição |
+|--------|-----------|
+| `Certificado_EloopToken_Timestamp.pdf` | Certificação oficial de registro do projeto com carimbo de tempo |
+| `EloopToken_Timestamp_Certificate_EN.pdf` | Versão em inglês do certificado de timestamp |
+| `EloopToken_Timestamp_QR.png` | QR code que leva ao registro do carimbo de tempo |
+| `Selo_EloopToken_Hash_Licenca_v2.png` | Selo visual de licenciamento com hash de verificação |
+| `eloop-token-protecao.html` | Página HTML explicando a proteção e licenciamento |
+| `eloop-token-protecao.ots` | Arquivo de carimbo de tempo (OpenTimestamps) |
+| `GitHub banner_Eloop.png` | Banner gráfico de apresentação visual |
+| `README.md` | Este documento descritivo do repositório |
 
 ---
 
-## 📁 Arquivos deste repositório
+## 🔗 Registro e Proteção
 
-- `eloop-token-protecao.html` – Código original protegido
-- `eloop-token-protecao.html.ots` – Carimbo de tempo (OpenTimestamps)
-- `Selo_EloopToken_Hash_Licenca_v2.png` – Imagem de prova visual
-- `GitHub banner_Eloop.png` – Banner institucional
-- `README_EloopToken_Hash_Licenca.txt` – Versão textual complementar
+- Os arquivos estão protegidos com **carimbo de tempo blockchain (OpenTimestamps)**.
+- O projeto utiliza a **licença Creative Commons CC BY-NC-SA 4.0**.
+- Hashes criptográficos estão disponíveis nos arquivos para verificação.
+
+---
+
+## 🧩 Sobre o Projeto Eloop Token
+
+O **Eloop Token** é uma moeda digital baseada em impacto ambiental positivo. Cada token representa uma fração de resíduo eletrônico devidamente reciclado, validado por rastreamento via blockchain e compliance com metas ESG.
+
+> 🌱 “Transformamos lixo eletrônico em valor rastreável e sustentável.”
 
 ---
 
 ## 📬 Contato
 
-**Autor**: Sérgio Paulo Alves Maffioletti  
-**Email**: [elooptoken.project@elooptoken.com](mailto:elooptoken.project@elooptoken.com)  
-**Website**: [https://www.elooptoken.com](https://www.elooptoken.com)
+- Site oficial: [elooptoken.com](https://www.elooptoken.com)
+- GitHub do projeto: [github.com/Maffioletti24](https://github.com/Maffioletti24)
+- LinkedIn institucional: [Eloop Token no LinkedIn](https://www.linkedin.com/company/elooptoken)
 
 ---
 
-> Este repositório é parte da transparência pública do projeto Eloop Token.
+## 🧾 Licença
+
+Este repositório está licenciado sob os termos da **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.  
+Você pode compartilhar e adaptar, desde que não para fins comerciais e com atribuição apropriada.
+
+---
+
+## 🏷️ Tags
+
+`#blockchain` `#web3` `#e-waste` `#creative-commons` `#protecaointelectual` `#economiacircular` `#timestamp` `#elooptoken`
+
+Atualiza descrição completa do projeto
