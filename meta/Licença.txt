@@ -1,0 +1,28 @@
+LICENÇA DE USO - Eloop Token
+
+Esta obra está licenciada sob os termos da Creative Commons - Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional (CC BY-NC-SA 4.0).
+
+Você tem permissão para:
+
+✅ Compartilhar — copiar e redistribuir o material em qualquer meio ou formato  
+✅ Adaptar — remixar, transformar e criar a partir do material
+
+**Desde que respeitadas as seguintes condições:**
+
+1. **Atribuição**  
+Você deve dar o crédito apropriado, prover um link para a licença e indicar se foram feitas mudanças. Você deve fazê-lo de maneira razoável, mas não de forma que sugira que o licenciante endossa você ou o seu uso.
+
+2. **Uso Não Comercial**  
+Você não pode usar o material para fins comerciais.
+
+3. **Compartilhamento pela Mesma Licença**  
+Se você remixar, transformar ou criar a partir do material, você deve distribuir suas contribuições sob a mesma licença que o original.
+
+---
+
+🔒 Esta licença protege a autoria e uso responsável do projeto **Eloop Token**, garantindo livre acesso e circulação para fins educativos, institucionais e não comerciais.
+
+📌 Para mais informações:  
+https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt
+
+📜 Registro com carimbo de tempo em blockchain disponível neste repositório.
